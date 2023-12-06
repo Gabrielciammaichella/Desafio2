@@ -1,0 +1,138 @@
+[
+    {
+      "title": "Celular",
+      "description": "Celular de última generación",
+      "price": 1000,
+      "thumbnail": "celular.jpg",
+      "code": 123,
+      "stock": 5,
+      "id": 16,
+      "status": true
+    },
+    {
+      "product": {
+        "title": "Celular",
+        "description": "Celular de última generación",
+        "price": 1000,
+        "thumbnail": "celular.jpg",
+        "code": 123,
+        "stock": 5
+      },
+      "id": 17,
+      "status": true
+    },
+    {
+      "product": {
+        "title": "Celular",
+        "description": "Celular de última generación",
+        "price": 1000,
+        "thumbnail": "celular.jpg",
+        "code": 123,
+        "stock": 5
+      },
+      "id": 18,
+      "status": true
+    },
+    {
+      "product": {
+        "title": "Celular",
+        "description": "Celular de última generación",
+        "price": 1000,
+        "thumbnail": "celular.jpg",
+        "code": 123,
+        "stock": 5
+      },
+      "id": 19,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "thumbnail": "nuevo_celular.jpg",
+      "code": 789,
+      "stock": 10,
+      "id": 20,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "thumbnail": "nuevo_celular.jpg",
+      "code": 789,
+      "stock": 10,
+      "id": 21,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "thumbnail": "nuevo_celular.jpg",
+      "code": 789,
+      "stock": 10,
+      "id": 22,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "thumbnail": "nuevo_celular.jpg",
+      "code": 789,
+      "stock": 10,
+      "id": 23,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "thumbnail": "nuevo_celular.jpg",
+      "code": 789,
+      "stock": 10,
+      "id": 24,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "stock": 10,
+      "id": 25,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "stock": 10,
+      "id": 26,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "stock": 10,
+      "id": 27,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "stock": 10,
+      "id": 28,
+      "status": true
+    },
+    {
+      "title": "Nuevo Celular",
+      "description": "Descripción del nuevo celular",
+      "price": 1200,
+      "stock": 10,
+      "id": 29,
+      "status": true
+    }
+  ]
