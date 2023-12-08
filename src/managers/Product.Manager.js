@@ -1,6 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { __dirname } from '../utils.js';
+import { __dirname } from '../../utils.js';
 
 export default class ProductManager {
   constructor(io) {
